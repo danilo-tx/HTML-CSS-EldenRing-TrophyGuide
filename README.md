@@ -1,7 +1,6 @@
-
 # Guia de Troféus - Elden Ring
 
-Uma página estática simples, criada com o intuito de utilizar todas as ferramentas e conceitos abordados nas aulas da Trilha Desenvolve Full Stack – Alura & Grupo Boticário 
+Uma página simples, criada com o intuito de utilizar todas as ferramentas e conceitos abordados nas aulas da Trilha Desenvolve Full Stack - Grupo Boticário & Alura
 
 ## Stack utilizada
 
@@ -10,21 +9,12 @@ Uma página estática simples, criada com o intuito de utilizar todas as ferrame
 
 ## Aprendizados
 
-Utilização do navegador para inspecionar elementos da página.
-
-<<<<<<< HEAD
-Criação de uma Web Page partindo do zero, tendo como ferramenta apenas o que foi abordado na primeira semana da Trilha.
+Criação de uma Web Page, partindo do zero, tendo como ferramenta:
 
 **HTML5** (Estrutura básica, semântica e boas práticas).
 
 **CSS3** (display block e inline, position relative e absolute, bordas e pseudo-classes).
 
-
 ## Demonstração
 
 https://danilo-tx.github.io/HTML-CSS-Guia-de-trofeus-Alura-GB/
-=======
-**HTML5** (Estrutura básica, semântica e boas práticas).
-
-**CSS3** (display inline e dispolay block, position relative e absolute, pseudo-classes).
->>>>>>> cb18508 (Otimizando a responsividade da página)
