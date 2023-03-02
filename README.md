@@ -1,20 +1,26 @@
-# Guia de Troféus - Elden Ring
 
-Uma página simples, criada com o intuito de utilizar todas as ferramentas e conceitos abordados nas aulas da Trilha Desenvolve Full Stack - Grupo Boticário & Alura
+# Elden Ring - Trophy Guide
+
+Um guia de troféus do jogo Elden Ring, desenvolvido com o intuito de praticar HTML e CSS.
+
+## Screenshot
+
+![](./screenshot.png)
 
 ## Stack utilizada
 
-**Front-end:** HTML5, CSS3
-
+- HTML5 
+- CSS3
+- Mobile-first
 
 ## Aprendizados
 
-Criação de uma Web Page, partindo do zero, tendo como ferramenta:
+•   Estruturar uma página responsiva partindo do zero
 
-**HTML5** (Estrutura básica, semântica e boas práticas).
+•	Versionar o código e subir para repositório no Git Hub
 
-**CSS3** (display block e inline, position relative e absolute, bordas e pseudo-classes).
+•	Hospedar a página com o GitHub Pages
 
 ## Demonstração
 
-https://danilo-tx.github.io/HTML-CSS-Guia-de-trofeus-Alura-GB/
+https://danilo-tx.github.io/HTML-CSS-EldenRing-TrophyGuide/
